@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Snackbar And Notification</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="_2">2</string>
+    <string name="introtext">Hello World!</string>
+    <string name="goodbye">Goodbye Summer!</string>
+    <string name="click_me">Click me</string>
+    <string name="hello_name">Hello %s</string>
+    <string name="fabButton">This is a FAB button</string>
+    <string name="channel_name">name</string>
+    <string name="channel_description">description</string>
+</resources>
